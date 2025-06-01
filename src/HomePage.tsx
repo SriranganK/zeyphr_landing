@@ -27,13 +27,6 @@ export default function HomePage() {
   return (
     <div className=" flex flex-col min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       {/* Navigation */}
-      <head>
-        <title>Zeyphr – Web3 Payments Made Simple</title>
-        <meta
-          name="description"
-          content="Web3 marketplace and payment platform with email login, one-tap payments, and QR codes powered by IOTA EVM."
-        />
-      </head>
       <nav className="border-b border-white/10 bg-black/20 backdrop-blur-md">
         <div className=" px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
